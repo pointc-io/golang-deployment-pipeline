@@ -75,7 +75,9 @@ Mappings:
         us-west-1:
             AMI: ami-1e299d7e
         us-west-2:
-            AMI: ami-b73d6cd7
+            AMI: ami-898dd9b9
+#        us-west-2:
+#            AMI: ami-b73d6cd7
         ca-central-1:
             AMI: ami-eb20928f
         eu-west-1:
